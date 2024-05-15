@@ -20,6 +20,7 @@ public class App {
         System.out.println("ding2");
         System.out.println("ding3");
         System.out.println("master test");
+        System.out.println("hotfix test");
 
 
         // 帮助我们初始化一个ioc容器
