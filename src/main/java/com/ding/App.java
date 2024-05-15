@@ -18,6 +18,9 @@ public class App {
     public static void main( String[] args ) {
         System.out.println("ding");
         System.out.println("ding2");
+        System.out.println("ding3");
+
+
         // 帮助我们初始化一个ioc容器
         ConfigurableApplicationContext context = SpringApplication.run(App.class, args);
 //        String[] beans = context.getBeanDefinitionNames();
