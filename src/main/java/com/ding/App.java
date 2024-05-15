@@ -16,6 +16,7 @@ import java.util.Arrays;
 @SpringBootApplication
 public class App {
     public static void main( String[] args ) {
+        System.out.println("git@github.com:ding-cb/springboot-demo1.git");
         System.out.println("ding");
         System.out.println("ding2");
         System.out.println("ding3");
